@@ -1,0 +1,12 @@
+To run this code you need to have
+
+Anaconda with jupyter notebook which comes with libraries installed
+
+Required libraries
+
+scikit- learn
+pandas
+Numpy
+
+The attachesd csv file is the dataset which should be downloaded alongside
+the jupyternotebook file and saved in the same directory
